@@ -1,0 +1,2 @@
+# primebot
+>info - Prime Bot
